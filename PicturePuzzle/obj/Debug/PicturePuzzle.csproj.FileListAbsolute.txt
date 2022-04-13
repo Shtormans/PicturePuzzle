@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.exe.config
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.exe
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.pdb
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.Form1.resources
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.Properties.Resources.resources
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.exe
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.pdb
+C:\Users\USER\Desktop\Programming\PicturePuzzle\PicturePuzzle\obj\Debug\PicturePuzzle.PuzzleForm.resources
